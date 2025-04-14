@@ -1,1 +1,1 @@
-Artificial Intelligence
+background-color: lightblue;
